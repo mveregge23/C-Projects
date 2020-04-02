@@ -1,4 +1,4 @@
-# C-Projects
+# Cpp Projects
 
 This repository contains all of my C++ projects. Each project comes with a Makefile for Unix systems.
 
